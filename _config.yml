@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source:      .
 destination: ./_site
 includes:    ./_includes
@@ -6,3 +7,8 @@ baseurl: /~msaveski
 collections:
   projects:
     output: true
+=======
+theme: jekyll-theme-minimal
+title: chuanbeibeishi's homepage
+description: Bookmark this to keep an eye on my project updates!
+>>>>>>> 16516619b4d61ce17c3ea025f2dc9451420ba622
