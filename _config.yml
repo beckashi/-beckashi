@@ -11,6 +11,8 @@ collections:
 theme: jekyll-theme-minimal
 title: chuanbeibeishi's homepage
 description: Bookmark this to keep an eye on my project updates!
+email: chuanbeibeishi@gmail.com
+url: "http://beckashi.github.io"
 markdown: rdiscount
 pygments: true
 >>>>>>> 16516619b4d61ce17c3ea025f2dc9451420ba622
