@@ -200,6 +200,6 @@ title: Home
   </ul>
 </div>
 
-<div class="docs-section">
+<div class="docs-section" id="template">
 <p>Thanks to <a href="https://web.stanford.edu/~msaveski/" target="_blank">Martin Saveski</a> for the website template.</p>
 </div>
