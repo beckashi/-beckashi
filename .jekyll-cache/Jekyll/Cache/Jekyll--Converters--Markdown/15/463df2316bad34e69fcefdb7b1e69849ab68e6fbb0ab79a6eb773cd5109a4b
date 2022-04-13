@@ -1,0 +1,442 @@
+I"�5<!-- ========== BIO ========== -->
+<div class="docs-section" id="bio">
+  <h4>Bio</h4>
+  <p>
+  I am a senior undergraduate at at School of Mechatronical Engineering at Beijing Institute of Technology. My research interest is in computer vision,natural language processing and robotics control. 
+  My recent work has focused on obejct detection on UAVs.
+  My research often falls at the application of Computer Vision, Machine Learning.
+  </p>
+
+  <p>
+  I am currently a research assistant at School of Mechatronical Engineering, supervised by Prof. <a href="https://smen.bit.edu.cn/sztd/szms/tcykzgcx/b162094.htm" target="_blank">Yushu Yu</a>.
+  I have also worked with Prof. <a href="https://people.engr.ncsu.edu/mshahza/" target="_blank">Muhammad Shahzad</a> in 2021 summer. In 2022 fall....
+  </p> 
+  <!--
+  I am a Postdoc at the department of Management Science and Engineering at Stanford University, working with <a href="https://web.stanford.edu/~jugander/" target="_blank">Johan Ugander</a>. 
+  My research develops tools for analyzing large-scale social data, aiming to provide a better understanding of social structure and behaviors online while also impacting the design of digital social systems.
+  My work often falls at the intersections of Social Networks, Machine Learning, and Causal Inference.
+  </p>
+
+  <!-- <p>
+  I completed my Ph.D. from MIT in 2020 under the supervision of Deb Roy. 
+  Before coming to MIT, I spent one year in Paris and one year in Barcelona doing a M.Sc. in Data mining and Knowledge Management. 
+  I got my B.Sc. from Staffordshire University with First Class honors in Computer Science. 
+  Throughout my graduate studies, I spent several summers doing internships in industry, including Yahoo! Labs, Amazon, LinkedIn, and Facebook.
+  </p> -->
+  
+</div>
+
+<!-- ========== PUBLICATIONS ========== -->
+<div class="docs-section" id="publications">
+  <h4>Publications</h4>
+
+  <p>Most recent publications on <a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=WMa5iIUAAAAJ" target="_blank">Google Scholar</a>.<br />
+  <sup>‡</sup> indicates equal contribution.
+  </p>
+
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li>
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="papers-selected">
+      
+      
+        <div class="paper">
+          <p class="title"><b>Constrained Control for Systems on Lie Groups with Uncertainties via Tube-based Model Predictive Control on Euclidean Spaces,</b></p>
+          <p>Yushu Yu, <b>Chuanbeibei Shi</b>, Yuwei Ma, Dong Eui CHANG</p>
+          <p><i>ICCSIP'21: International Conference on Cognitive Systems and Information Processing. 2021.</i></p>
+           <div class="paper-buttons">
+            
+              <a class="button" href="/~beckashihttps://link.springer.com/chapter/10.1007/978-981-16-9247-5_12" target="_blank">Paper</a>
+            
+
+          </div>
+        </div>
+      
+        <div class="paper">
+          <p class="title"><b>Real-time Multi-modal Active Vision for Object Detection on UAVs Equipped with Limited Field of View LiDAR and Camera</b></p>
+          <p><b>Chuanbeibei Shi</b>, Yushu Yu, Ganghua Lai, Mauro Bellone, Vincezo Lippiello</p>
+          <p><i>Submitted: IROS'22: IEEE/RSJ International Conference on Intelligent Robots and Systems </i></p>
+           <div class="paper-buttons">
+            
+
+          </div>
+        </div>
+      
+    </div>
+
+    <div class="tab-pane" id="papers-all">
+      
+        <div class="paper">
+          <p class="title"><b>Constrained Control for Systems on Lie Groups with Uncertainties via Tube-based Model Predictive Control on Euclidean Spaces,</b></p>
+          <p>Yushu Yu, <b>Chuanbeibei Shi</b>, Yuwei Ma, Dong Eui CHANG</p>
+          <p><i>ICCSIP'21: International Conference on Cognitive Systems and Information Processing. 2021.</i></p>
+           <div class="paper-buttons">
+            
+              <a class="button" href="/~beckashihttps://link.springer.com/chapter/10.1007/978-981-16-9247-5_12" target="_blank">Paper</a>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+          </div>
+        </div>
+      
+        <div class="paper">
+          <p class="title"><b>Towards Expandable Aerial Vehicles Assembly: Trajectory Linearization Geometric Control Design and Real-world Prototype Implementation</b></p>
+          <p>Kaidi Wang, Yishen Qi, <b>Chuanbeibei Shi</b>, Yushu Yu, Fuchun Sun, Dongjun Lee</p>
+          <p><i>Submitted: IEEE/ASME Transactions on Mechatronics. 2022.</i></p>
+           <div class="paper-buttons">
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+          </div>
+        </div>
+      
+        <div class="paper">
+          <p class="title"><b>Real-time Multi-modal Active Vision for Object Detection on UAVs Equipped with Limited Field of View LiDAR and Camera</b></p>
+          <p><b>Chuanbeibei Shi</b>, Yushu Yu, Ganghua Lai, Mauro Bellone, Vincezo Lippiello</p>
+          <p><i>Submitted: IROS'22: IEEE/RSJ International Conference on Intelligent Robots and Systems </i></p>
+           <div class="paper-buttons">
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+          </div>
+        </div>
+      
+        <div class="paper">
+          <p class="title"><b>Hierarchical Robust Tube-based Model Predictive Control of Multiple Aerial-Vehicle Transportation Systems with Uncertainties and State/Input Constraints</b></p>
+          <p>Yushu Yu, <b>Chuanbeibei Shi</b>, Vincenzo Lippiello, Yi Yang.</p>
+          <p><i>In revision: Applied Mathematical Modelling</i></p>
+           <div class="paper-buttons">
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+<p><!-- ========== PROJECTS ==========  --></p>
+<div class="docs-section" id="projects">
+  <h4>Projects</h4>
+
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
+    <li><div class="button" data-ref="#projects-all">All</div></li>
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="projects-selected">
+      
+      
+        
+        
+          <div class="row">
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Active Vision for Object Detection on UAVs with Camera and LiDAR </b> <br />
+                  Combining CNN with perception constraints to keep the region of interest in the Field-of-view (FOV) of the camera and LiDAR
+                </div>
+
+            </div>
+          </div>
+
+        
+      
+        
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Geometric Tube-based MPC for Aerial Robot</b> <br />
+                  Developed the real-world program of the MPC for aerial robots,
+                </div>
+
+            </div>
+          </div>
+
+        
+      
+        
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Robust Control of Multiple Aerial-Vehicle Transportation Systems</b> <br />
+                  A hierarchical control scheme for multiple aerial-vehicle transportation systems
+                </div>
+
+            </div>
+          </div>
+
+        
+          </div>
+        
+      
+    </div>
+
+    <div class="tab-pane" id="projects-all">
+      
+        
+        
+          <div class="row">
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Active Vision for Object Detection on UAVs with Camera and LiDAR </b> <br />
+                  Combining CNN with perception constraints to keep the region of interest in the Field-of-view (FOV) of the camera and LiDAR
+                </div>
+
+            </div>
+          </div>
+
+        
+      
+        
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Geometric Tube-based MPC for Aerial Robot</b> <br />
+                  Developed the real-world program of the MPC for aerial robots,
+                </div>
+
+            </div>
+          </div>
+
+        
+      
+        
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Robust Control of Multiple Aerial-Vehicle Transportation Systems</b> <br />
+                  A hierarchical control scheme for multiple aerial-vehicle transportation systems
+                </div>
+
+            </div>
+          </div>
+
+        
+          </div>
+        
+      
+        
+        
+          <div class="row">
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Obstacle Avoidance Car Based on Raspberry Pi and Arduino </b> <br />
+                  Object detection to identify cars and blocks
+                </div>
+
+            </div>
+          </div>
+
+        
+      
+        
+        
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <!-- <div class="project-image-container">
+                  <a href="">
+                    <img src="" class="u-max-full-width" />
+                  </a>
+                </div> -->
+
+                <div class="project-caption">
+                  <b>Rotor-Wing Amphibious Unmanned Aerial Vehicle (UAV)</b> <br />
+                  Final positioning of the target motion state of the submarine.
+                </div>
+
+            </div>
+          </div>
+
+        
+      
+    </div>
+  </div>
+
+</div>
+
+<!-- ========== RESUME ========== -->
+<div class="docs-section" id="resume">
+  <h4>Vitæ</h4>
+
+ <p>Full Resume in &lt;a href=/~beckashi/assets/cv/CV.pdf target="_blank"&gt;PDF&lt;/a&gt;.</p>
+
+  <!-- The Timeline -->
+  <ul class="timeline">
+    
+    <li>
+      
+      <div class="direction-r">
+      
+        <div class="flag-wrapper">
+          <span class="flag">?</span>
+          <span class="time-wrapper"><span class="time">Sep 2019 - </span></span>
+        </div>
+        <div class="desc"><b>Master or Ph.D. student</b> <br /> CS, NLP</div>
+      </div>
+    </li>
+    
+    <li>
+      
+      <div class="direction-l">
+      
+        <div class="flag-wrapper">
+          <span class="flag">North Carolina State University</span>
+          <span class="time-wrapper"><span class="time">Summer 2021</span></span>
+        </div>
+        <div class="desc"><b>Research Intern</b> <br /> Department of Computer Science</div>
+      </div>
+    </li>
+    
+    <li>
+      
+      <div class="direction-l">
+      
+        <div class="flag-wrapper">
+          <span class="flag">MIT</span>
+          <span class="time-wrapper"><span class="time">Summer 2019</span></span>
+        </div>
+        <div class="desc"><b>Research Intern</b> <br /> Machine Learning &amp; Artificial Intelligence</div>
+      </div>
+    </li>
+    
+    <li>
+      
+      <div class="direction-l">
+      
+        <div class="flag-wrapper">
+          <span class="flag">Beijing Institute of Technology</span>
+          <span class="time-wrapper"><span class="time">July 2019 - present</span></span>
+        </div>
+        <div class="desc"><b>Research Assistant</b> <br /> School of Mechatronical Engineering</div>
+      </div>
+    </li>
+    
+    <li>
+      
+      <div class="direction-r">
+      
+        <div class="flag-wrapper">
+          <span class="flag">Beijing Institute of Technology</span>
+          <span class="time-wrapper"><span class="time">Sep 2018 - July 2022</span></span>
+        </div>
+        <div class="desc"><b>B.Sc. Student</b> <br /> Mechatronics Engineering</div>
+      </div>
+    </li>
+    
+  </ul>
+</div>
+
+<div class="docs-section">
+<p>Thanks to <a href="https://web.stanford.edu/~msaveski/" target="_blank">Martin Saveski</a> for the website template.</p>
+</div>
+</div>
+:ET
