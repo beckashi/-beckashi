@@ -1,6 +1,6 @@
 papers:
 
-  - title: "Constrained Control for Systems on Matrix Lie Groups with Uncertainties via Tube-based Model Predictive Control on Euclidean Spaces,"
+  - title: "Constrained Control for Systems on Lie Groups with Uncertainties via Tube-based Model Predictive Control on Euclidean Spaces,"
     authors: "Yushu Yu, <b>Chuanbeibei Shi</b>, Yuwei Ma, Dong Eui CHANG"
     venue: "ICCSIP'21: International Conference on Cognitive Systems and Information Processing. 2021."
     paper_pdf: "https://link.springer.com/chapter/10.1007/978-981-16-9247-5_12"
