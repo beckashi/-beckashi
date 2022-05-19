@@ -9,7 +9,7 @@ papers:
   - title: "Hierarchical Robust Tube-based Model Predictive Control of Multiple Aerial-Vehicle Transportation Systems with Uncertainties and State/Input Constraints"
     authors: "Yushu Yu, <b>Chuanbeibei Shi</b>, Vincenzo Lippiello, Yi Yang."
     venue: "Applied Mathematical Modelling. 2022"
-    # paper_pdf: "/assets/publications/2022_flipfeed/paper.pdf"
+    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0307904X22002268"
     # code: "https://github.com/msaveski/twitter_perspective_taking"
     # data: "https://github.com/msaveski/twitter_perspective_taking"
     selected: y
