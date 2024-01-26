@@ -3,21 +3,21 @@ papers:
   - title: "Real-Time Multi-Modal Active Vision for Object Detection on UAVs Equipped With Limited Field of View LiDAR and Camera"
     authors: "<b>Chuanbeibei Shi</b>,  Ganghua Lai, Yushu Yu, Mauro Bellone, Vincezo Lippiello"
     venue: "IEEE Robotics and Automation Letters, 2023."
-    paper_pdf: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=WMa5iIUAAAAJ&citation_for_view=WMa5iIUAAAAJ:UeHWp8X0CEIC"
+    paper_pdf: "/assets/publications/2023_active_vision.pdf"
     selected: y
-    
+ 
 
   - title: "Variable Admittance Interaction Control of UAVs via Deep Reinforcement Learning"
     authors: "Yuting Feng, <b>Chuanbeibei Shi</b>, Jianrui Du, Yushu Yu, Fuchun Sun, Yixu Song"
     venue: "IEEE International Conference on Robotics and Automation (ICRA), 2023."
-    paper_pdf: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=WMa5iIUAAAAJ&citation_for_view=WMa5iIUAAAAJ:qjMakFHDy7sC"
+    paper_pdf: "/assets/publications/Variable_Admittance_icra.pdf"
     # code: "https://github.com/facebookresearch/social-catalysts"
     selected: y
 
   - title: "Constrained Control for Systems on Matrix Lie Groups with Uncertainties"
     authors: "<b>Chuanbeibei Shi</b>, Yushu Yu, Yuwei Ma, Dong Eui CHANG"
     venue: "International Journal of Robust and Nonlinear Control, 2023."
-    paper_pdf: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=WMa5iIUAAAAJ&citation_for_view=WMa5iIUAAAAJ:2osOgNQ5qMEC"
+    paper_pdf: "/assets/publications/RNC.pdf"
     # code: "https://github.com/msaveski/twitter_perspective_taking"
     # data: "https://github.com/msaveski/twitter_perspective_taking"
     selected: y
@@ -25,22 +25,22 @@ papers:
   - title: "Design and Implementation of a Fully-Actuated Integrated Aerial Platform Based on Geometric Model Predictive Control"
     authors: "<b>Chuanbeibei Shi</b>, Yushu Yu"
     venue: "Micromachines, 2022."
-    paper_pdf: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=WMa5iIUAAAAJ&citation_for_view=WMa5iIUAAAAJ:9yKSN-GCB0IC"
+    paper_pdf: "/assets/publications/micromachines-13-01822-v2.pdf"
     selected: y
 
   - title: "Expandable Fully Actuated Aerial Vehicle Assembly: Geometric Control Adapted from an Existing Flight Controller and Real-World Prototype Implementation"
     authors: "<b>Chuanbeibei Shi</b>,  Kaidi Wang,  Yushu Yu."
     venue: "Drones, 2022"
-    paper_pdf: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=WMa5iIUAAAAJ&citation_for_view=WMa5iIUAAAAJ:d1gkVwhDpl0C"
+    paper_pdf: "/assets/publications/drones-06-00272.pdf"
     # code: "https://github.com/msaveski/toxic_conversation_structure"
     # data: "https://doi.org/10.7910/DVN/TRWPVB"
     # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
     selected: y
 
-- title: "A Hierarchical Control Scheme for Multiple Aerial Vehicle Transportation Systems with Uncertainties and State/Input Constraints"
+  - title: "A Hierarchical Control Scheme for Multiple Aerial Vehicle Transportation Systems with Uncertainties and State/Input Constraints"
     authors: "Yushu Yu, <b>Chuanbeibei Shi</b>, Dan Shan, Vincenzo Lippiello, Yi Yang"
     venue: "Applied Mathematical Modelling, 2022"
-    paper_pdf: "https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=WMa5iIUAAAAJ&citation_for_view=WMa5iIUAAAAJ:u-x6o8ySG0sC"
+    paper_pdf: "/assets/publications/AMM.pdf"
     # code: "https://github.com/msaveski/toxic_conversation_structure"
     # data: "https://doi.org/10.7910/DVN/TRWPVB"
     # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
@@ -49,7 +49,7 @@ papers:
   - title: "Constrained Control for Systems on Lie Groups with Uncertainties via Tube-based Model Predictive Control on Euclidean Spaces"
     authors: "Yushu Yu, <b>Chuanbeibei Shi</b>, Yuwei Ma, Dong Eui CHANG"
     venue: "International Conference on Cognitive Systems and Information Processing (ICCSIP), 2021"
-    paper_pdf: "https://link.springer.com/chapter/10.1007/978-981-16-9247-5_12"
+    # paper_pdf: ""
     # code: "https://github.com/msaveski/toxic_conversation_structure"
     # data: "https://doi.org/10.7910/DVN/TRWPVB"
     # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
