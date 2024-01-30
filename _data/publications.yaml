@@ -68,12 +68,3 @@ papers:
     # data: "https://doi.org/10.7910/DVN/TRWPVB"
     # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
     selected: n
-
-  - title: "Tightly Fusion of Odometry and Kinematic Constraints for Multiple Aerial Vehicles in Physical Interconnection"
-    authors: "Yingjun Fan, <b>Chuanbeibei Shi</b>, Ganghua Lai, Yushu Yu, Yiqun Dong"
-    venue: "Submitted: IEEE Robotics and Automation Letters, 2023. "
-    # paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
-    # code: "https://github.com/msaveski/toxic_conversation_structure"
-    # data: "https://doi.org/10.7910/DVN/TRWPVB"
-    # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
-    selected: n
