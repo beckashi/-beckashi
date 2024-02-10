@@ -1,5 +1,5 @@
 papers:
-  - title: "Tightly Fusion of Odometry and Kinematic Constraints for Multiple Aerial Vehicles in Physical Interconnection"
+  - title: "Tight Fusion of Odometry and Kinematic Constraints for Multiple Aerial Vehicles in Physical Interconnection"
     authors: "Yingjun Fan, <b>Chuanbeibei Shi</b>, Ganghua Lai, Yushu Yu, Yiqun Dong"
     venue: "IEEE International Conference on Robotics and Automation (ICRA), 2024."
     # paper_pdf: "/assets/publications/2023_active_vision.pdf"
